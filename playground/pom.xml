@@ -8,11 +8,11 @@
 		<version>3.4.5</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>ch.zhaw.akguelar</groupId>
-	<artifactId>tinyfood</artifactId>
+	<groupId>ch.zhaw.projekt</groupId>
+	<artifactId>petclassifier</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>tinyfood</name>
-	<description>Food classifier project for Spring Boot</description>
+	<name>pet</name>
+	<description>Pet classifier project for Spring Boot</description>
 	<url/>
 	<licenses>
 		<license/>
