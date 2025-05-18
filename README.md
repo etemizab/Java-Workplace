@@ -7,6 +7,7 @@ Azure
 Eine KI-basierte Webanwendung zur Klassifizierung von Haustierbildern (Hunde/Katzen) mit Java, Maven und Docker, deployed auf Azure.
 
 Live-Demo: https://petclassifier1-h7apb0fdfsd7f7gt.southindia-01.azurewebsites.net/
+Daten kopiert von Kaggle: https://www.kaggle.com/c/dogs-vs-cats/data
 
 Inhaltsverzeichnis
 1. Funktionen
