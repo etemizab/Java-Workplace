@@ -1,4 +1,4 @@
-🐾 Pet Classifier - Java Web Application
+Pet Classifier - Java Web Application
 Java
 Spring Boot
 Docker
@@ -6,9 +6,9 @@ Azure
 
 Eine KI-basierte Webanwendung zur Klassifizierung von Haustierbildern (Hunde/Katzen) mit Java, Maven und Docker, deployed auf Azure.
 
-🔗 Live-Demo: https://petclassifier1-h7apb0fdfsd7f7gt.southindia-01.azurewebsites.net/
+Live-Demo: https://petclassifier1-h7apb0fdfsd7f7gt.southindia-01.azurewebsites.net/
 
-📌 Inhaltsverzeichnis
+Inhaltsverzeichnis
 1. Funktionen
 2. Technologien
 3. Voraussetzungen
@@ -20,20 +20,20 @@ Eine KI-basierte Webanwendung zur Klassifizierung von Haustierbildern (Hunde/Kat
 9. Beitragen
 10. Lizenz
 
-🎯 1. Funktionen
-  - 📸 Upload von Haustierbildern
-  - 🐶 KI-Modell zur Klassifizierung (Hund/Katze)
+1. Funktionen
+  -  Upload von Haustierbildern
+  -  KI-Modell zur Klassifizierung (Hund/Katze)
 
-  - 📊 Wahrscheinlichkeitsanzeige in %
+  -  Wahrscheinlichkeitsanzeige in %
 
-  - 🐱 Beschreibungen der erkannten Rassen
+  -  Beschreibungen der erkannten Rassen
 
-  - 🚀 Docker-Container-Unterstützung
+  -  Docker-Container-Unterstützung
 
-  - ☁️ Deployment auf Azure Web App
+  - ☁ Deployment auf Azure Web App
 
 
-🛠 2. Technologien
+2. Technologien
 Backend:
 
 Java 17
@@ -60,7 +60,7 @@ Azure Container Registry (ACR)
 
 Azure App Service
 
-📋 3. Voraussetzungen
+3. Voraussetzungen
 JDK 17+
 
 Maven 3.8+
@@ -69,7 +69,7 @@ Docker (optional)
 
 Azure CLI (für Deployment)
 
-🚀 4. Installation
+4. Installation
 5 . Lokal ausführen
 bash
 # Klone das Repository
@@ -113,14 +113,14 @@ bash
 az webapp config appsettings set --name petclassifier1 \
                                 --resource-group Javapetclassifier \
                                 --settings WEBSITES_PORT=8080
-🔗 Live-URL: https://petclassifier1-h7apb0fdfsd7f7gt.southindia-01.azurewebsites.net/
+Live-URL: https://petclassifier1-h7apb0fdfsd7f7gt.southindia-01.azurewebsites.net/
 
-📡 8. API-Endpunkte
+8. API-Endpunkte
 Endpoint	Methode	Beschreibung
 /analyze	POST	Bildanalyse (multipart/form-data)
 /labels	GET	Liste aller erkennbaren Labels
 /models	GET	Verfügbare KI-Modelle
-🤝 9. Beitragen
+9. Beitragen
 Fork das Repository
 
 Erstelle einen Feature-Branch (git checkout -b feature/AmazingFeature)
@@ -131,7 +131,7 @@ Pushe den Branch (git push origin feature/AmazingFeature)
 
 Öffne einen Pull Request
 
-📜 10. Lizenz
+10. Lizenz
 MIT
 
 📸 Screenshots
