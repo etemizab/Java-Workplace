@@ -30,7 +30,7 @@ Inhaltsverzeichnis
 
   -  Docker-Container-Unterstützung
 
-  - ☁ Deployment auf Azure Web App
+  -  Deployment auf Azure Web App
 
 
 2. Technologien
@@ -135,6 +135,7 @@ Pushe den Branch (git push origin feature/AmazingFeature)
 MIT
 
 📸 Screenshots
-Screenshot der Webseite (Ersetzen mit echten Screenshots)
+![image](https://github.com/user-attachments/assets/69ddefca-3f0b-4204-981d-100249a1d0f6)
+![image](https://github.com/user-attachments/assets/6af8fd48-7105-415a-9c59-e60a41e9c478)
 
-💡 Hinweis: Bei Problemen mit dem Azure-Deployment siehe Troubleshooting Guide.
+ Hinweis: Bei Problemen mit dem Azure-Deployment siehe Troubleshooting Guide.
